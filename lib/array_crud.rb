@@ -5,7 +5,7 @@ end
 
 def create_an_array
   array = Array.new
-  array << 1, 2, 3, 4
+  array << 1
   
 end
 
